@@ -1,0 +1,100 @@
+C:\Users\matia\OneDrive\Escritorio\Proyecto SO\Version 1\Version1proyectoS0\bin\Debug\net6.0-windows\Version1proyectoS0.exe
+C:\Users\matia\OneDrive\Escritorio\Proyecto SO\Version 1\Version1proyectoS0\bin\Debug\net6.0-windows\Version1proyectoS0.deps.json
+C:\Users\matia\OneDrive\Escritorio\Proyecto SO\Version 1\Version1proyectoS0\bin\Debug\net6.0-windows\Version1proyectoS0.runtimeconfig.json
+C:\Users\matia\OneDrive\Escritorio\Proyecto SO\Version 1\Version1proyectoS0\bin\Debug\net6.0-windows\Version1proyectoS0.dll
+C:\Users\matia\OneDrive\Escritorio\Proyecto SO\Version 1\Version1proyectoS0\bin\Debug\net6.0-windows\Version1proyectoS0.pdb
+C:\Users\matia\OneDrive\Escritorio\Proyecto SO\Version 1\Version1proyectoS0\obj\Debug\net6.0-windows\Version1proyectoS0.csproj.AssemblyReference.cache
+C:\Users\matia\OneDrive\Escritorio\Proyecto SO\Version 1\Version1proyectoS0\obj\Debug\net6.0-windows\Version1proyectoS0.Form1.resources
+C:\Users\matia\OneDrive\Escritorio\Proyecto SO\Version 1\Version1proyectoS0\obj\Debug\net6.0-windows\Version1proyectoS0.csproj.GenerateResource.cache
+C:\Users\matia\OneDrive\Escritorio\Proyecto SO\Version 1\Version1proyectoS0\obj\Debug\net6.0-windows\Version1proyectoS0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matia\OneDrive\Escritorio\Proyecto SO\Version 1\Version1proyectoS0\obj\Debug\net6.0-windows\Version1proyectoS0.AssemblyInfoInputs.cache
+C:\Users\matia\OneDrive\Escritorio\Proyecto SO\Version 1\Version1proyectoS0\obj\Debug\net6.0-windows\Version1proyectoS0.AssemblyInfo.cs
+C:\Users\matia\OneDrive\Escritorio\Proyecto SO\Version 1\Version1proyectoS0\obj\Debug\net6.0-windows\Version1proyectoS0.csproj.CoreCompileInputs.cache
+C:\Users\matia\OneDrive\Escritorio\Proyecto SO\Version 1\Version1proyectoS0\obj\Debug\net6.0-windows\Version1proyectoS0.dll
+C:\Users\matia\OneDrive\Escritorio\Proyecto SO\Version 1\Version1proyectoS0\obj\Debug\net6.0-windows\refint\Version1proyectoS0.dll
+C:\Users\matia\OneDrive\Escritorio\Proyecto SO\Version 1\Version1proyectoS0\obj\Debug\net6.0-windows\Version1proyectoS0.pdb
+C:\Users\matia\OneDrive\Escritorio\Proyecto SO\Version 1\Version1proyectoS0\obj\Debug\net6.0-windows\Version1proyectoS0.genruntimeconfig.cache
+C:\Users\matia\OneDrive\Escritorio\Proyecto SO\Version 1\Version1proyectoS0\obj\Debug\net6.0-windows\ref\Version1proyectoS0.dll
+C:\Users\matia\OneDrive\Escritorio\Version 1\Version1proyectoS0\bin\Debug\net6.0-windows\Version1proyectoS0.exe
+C:\Users\matia\OneDrive\Escritorio\Version 1\Version1proyectoS0\bin\Debug\net6.0-windows\Version1proyectoS0.deps.json
+C:\Users\matia\OneDrive\Escritorio\Version 1\Version1proyectoS0\bin\Debug\net6.0-windows\Version1proyectoS0.runtimeconfig.json
+C:\Users\matia\OneDrive\Escritorio\Version 1\Version1proyectoS0\bin\Debug\net6.0-windows\Version1proyectoS0.dll
+C:\Users\matia\OneDrive\Escritorio\Version 1\Version1proyectoS0\bin\Debug\net6.0-windows\Version1proyectoS0.pdb
+C:\Users\matia\OneDrive\Escritorio\Version 1\Version1proyectoS0\obj\Debug\net6.0-windows\Version1proyectoS0.csproj.AssemblyReference.cache
+C:\Users\matia\OneDrive\Escritorio\Version 1\Version1proyectoS0\obj\Debug\net6.0-windows\Version1proyectoS0.Form1.resources
+C:\Users\matia\OneDrive\Escritorio\Version 1\Version1proyectoS0\obj\Debug\net6.0-windows\Version1proyectoS0.csproj.GenerateResource.cache
+C:\Users\matia\OneDrive\Escritorio\Version 1\Version1proyectoS0\obj\Debug\net6.0-windows\Version1proyectoS0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matia\OneDrive\Escritorio\Version 1\Version1proyectoS0\obj\Debug\net6.0-windows\Version1proyectoS0.AssemblyInfoInputs.cache
+C:\Users\matia\OneDrive\Escritorio\Version 1\Version1proyectoS0\obj\Debug\net6.0-windows\Version1proyectoS0.AssemblyInfo.cs
+C:\Users\matia\OneDrive\Escritorio\Version 1\Version1proyectoS0\obj\Debug\net6.0-windows\Version1proyectoS0.csproj.CoreCompileInputs.cache
+C:\Users\matia\OneDrive\Escritorio\Version 1\Version1proyectoS0\obj\Debug\net6.0-windows\Version1proyectoS0.dll
+C:\Users\matia\OneDrive\Escritorio\Version 1\Version1proyectoS0\obj\Debug\net6.0-windows\refint\Version1proyectoS0.dll
+C:\Users\matia\OneDrive\Escritorio\Version 1\Version1proyectoS0\obj\Debug\net6.0-windows\Version1proyectoS0.pdb
+C:\Users\matia\OneDrive\Escritorio\Version 1\Version1proyectoS0\obj\Debug\net6.0-windows\Version1proyectoS0.genruntimeconfig.cache
+C:\Users\matia\OneDrive\Escritorio\Version 1\Version1proyectoS0\obj\Debug\net6.0-windows\ref\Version1proyectoS0.dll
+C:\Users\rcmga\Downloads\Version 2\Version 1\Version1proyectoS0\bin\Debug\net6.0-windows\Version1proyectoS0.exe
+C:\Users\rcmga\Downloads\Version 2\Version 1\Version1proyectoS0\bin\Debug\net6.0-windows\Version1proyectoS0.deps.json
+C:\Users\rcmga\Downloads\Version 2\Version 1\Version1proyectoS0\bin\Debug\net6.0-windows\Version1proyectoS0.runtimeconfig.json
+C:\Users\rcmga\Downloads\Version 2\Version 1\Version1proyectoS0\bin\Debug\net6.0-windows\Version1proyectoS0.dll
+C:\Users\rcmga\Downloads\Version 2\Version 1\Version1proyectoS0\bin\Debug\net6.0-windows\Version1proyectoS0.pdb
+C:\Users\rcmga\Downloads\Version 2\Version 1\Version1proyectoS0\obj\Debug\net6.0-windows\Version1proyectoS0.Form1.resources
+C:\Users\rcmga\Downloads\Version 2\Version 1\Version1proyectoS0\obj\Debug\net6.0-windows\Version1proyectoS0.csproj.GenerateResource.cache
+C:\Users\rcmga\Downloads\Version 2\Version 1\Version1proyectoS0\obj\Debug\net6.0-windows\Version1proyectoS0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rcmga\Downloads\Version 2\Version 1\Version1proyectoS0\obj\Debug\net6.0-windows\Version1proyectoS0.AssemblyInfoInputs.cache
+C:\Users\rcmga\Downloads\Version 2\Version 1\Version1proyectoS0\obj\Debug\net6.0-windows\Version1proyectoS0.AssemblyInfo.cs
+C:\Users\rcmga\Downloads\Version 2\Version 1\Version1proyectoS0\obj\Debug\net6.0-windows\Version1proyectoS0.csproj.CoreCompileInputs.cache
+C:\Users\rcmga\Downloads\Version 2\Version 1\Version1proyectoS0\obj\Debug\net6.0-windows\Version1proyectoS0.dll
+C:\Users\rcmga\Downloads\Version 2\Version 1\Version1proyectoS0\obj\Debug\net6.0-windows\refint\Version1proyectoS0.dll
+C:\Users\rcmga\Downloads\Version 2\Version 1\Version1proyectoS0\obj\Debug\net6.0-windows\Version1proyectoS0.pdb
+C:\Users\rcmga\Downloads\Version 2\Version 1\Version1proyectoS0\obj\Debug\net6.0-windows\Version1proyectoS0.genruntimeconfig.cache
+C:\Users\rcmga\Downloads\Version 2\Version 1\Version1proyectoS0\obj\Debug\net6.0-windows\ref\Version1proyectoS0.dll
+C:\Users\matia\OneDrive\Documentos\UPC Telecomunicacions\Version 22\Version 1\Version1proyectoS0\bin\Debug\net6.0-windows\Version1proyectoS0.exe
+C:\Users\matia\OneDrive\Documentos\UPC Telecomunicacions\Version 22\Version 1\Version1proyectoS0\bin\Debug\net6.0-windows\Version1proyectoS0.deps.json
+C:\Users\matia\OneDrive\Documentos\UPC Telecomunicacions\Version 22\Version 1\Version1proyectoS0\bin\Debug\net6.0-windows\Version1proyectoS0.runtimeconfig.json
+C:\Users\matia\OneDrive\Documentos\UPC Telecomunicacions\Version 22\Version 1\Version1proyectoS0\bin\Debug\net6.0-windows\Version1proyectoS0.dll
+C:\Users\matia\OneDrive\Documentos\UPC Telecomunicacions\Version 22\Version 1\Version1proyectoS0\bin\Debug\net6.0-windows\Version1proyectoS0.pdb
+C:\Users\matia\OneDrive\Documentos\UPC Telecomunicacions\Version 22\Version 1\Version1proyectoS0\obj\Debug\net6.0-windows\Version1proyectoS0.csproj.AssemblyReference.cache
+C:\Users\matia\OneDrive\Documentos\UPC Telecomunicacions\Version 22\Version 1\Version1proyectoS0\obj\Debug\net6.0-windows\Version1proyectoS0.Form1.resources
+C:\Users\matia\OneDrive\Documentos\UPC Telecomunicacions\Version 22\Version 1\Version1proyectoS0\obj\Debug\net6.0-windows\Version1proyectoS0.csproj.GenerateResource.cache
+C:\Users\matia\OneDrive\Documentos\UPC Telecomunicacions\Version 22\Version 1\Version1proyectoS0\obj\Debug\net6.0-windows\Version1proyectoS0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matia\OneDrive\Documentos\UPC Telecomunicacions\Version 22\Version 1\Version1proyectoS0\obj\Debug\net6.0-windows\Version1proyectoS0.AssemblyInfoInputs.cache
+C:\Users\matia\OneDrive\Documentos\UPC Telecomunicacions\Version 22\Version 1\Version1proyectoS0\obj\Debug\net6.0-windows\Version1proyectoS0.AssemblyInfo.cs
+C:\Users\matia\OneDrive\Documentos\UPC Telecomunicacions\Version 22\Version 1\Version1proyectoS0\obj\Debug\net6.0-windows\Version1proyectoS0.csproj.CoreCompileInputs.cache
+C:\Users\matia\OneDrive\Documentos\UPC Telecomunicacions\Version 22\Version 1\Version1proyectoS0\obj\Debug\net6.0-windows\Version1proyectoS0.dll
+C:\Users\matia\OneDrive\Documentos\UPC Telecomunicacions\Version 22\Version 1\Version1proyectoS0\obj\Debug\net6.0-windows\refint\Version1proyectoS0.dll
+C:\Users\matia\OneDrive\Documentos\UPC Telecomunicacions\Version 22\Version 1\Version1proyectoS0\obj\Debug\net6.0-windows\Version1proyectoS0.pdb
+C:\Users\matia\OneDrive\Documentos\UPC Telecomunicacions\Version 22\Version 1\Version1proyectoS0\obj\Debug\net6.0-windows\Version1proyectoS0.genruntimeconfig.cache
+C:\Users\matia\OneDrive\Documentos\UPC Telecomunicacions\Version 22\Version 1\Version1proyectoS0\obj\Debug\net6.0-windows\ref\Version1proyectoS0.dll
+C:\Users\matia\OneDrive\Escritorio\Proyecto SO\Version 2\Version1proyectoS0\bin\Debug\net6.0-windows\Version1proyectoS0.exe
+C:\Users\matia\OneDrive\Escritorio\Proyecto SO\Version 2\Version1proyectoS0\bin\Debug\net6.0-windows\Version1proyectoS0.deps.json
+C:\Users\matia\OneDrive\Escritorio\Proyecto SO\Version 2\Version1proyectoS0\bin\Debug\net6.0-windows\Version1proyectoS0.runtimeconfig.json
+C:\Users\matia\OneDrive\Escritorio\Proyecto SO\Version 2\Version1proyectoS0\bin\Debug\net6.0-windows\Version1proyectoS0.dll
+C:\Users\matia\OneDrive\Escritorio\Proyecto SO\Version 2\Version1proyectoS0\bin\Debug\net6.0-windows\Version1proyectoS0.pdb
+C:\Users\matia\OneDrive\Escritorio\Proyecto SO\Version 2\Version1proyectoS0\obj\Debug\net6.0-windows\Version1proyectoS0.csproj.AssemblyReference.cache
+C:\Users\matia\OneDrive\Escritorio\Proyecto SO\Version 2\Version1proyectoS0\obj\Debug\net6.0-windows\Version1proyectoS0.Form1.resources
+C:\Users\matia\OneDrive\Escritorio\Proyecto SO\Version 2\Version1proyectoS0\obj\Debug\net6.0-windows\Version1proyectoS0.csproj.GenerateResource.cache
+C:\Users\matia\OneDrive\Escritorio\Proyecto SO\Version 2\Version1proyectoS0\obj\Debug\net6.0-windows\Version1proyectoS0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matia\OneDrive\Escritorio\Proyecto SO\Version 2\Version1proyectoS0\obj\Debug\net6.0-windows\Version1proyectoS0.AssemblyInfoInputs.cache
+C:\Users\matia\OneDrive\Escritorio\Proyecto SO\Version 2\Version1proyectoS0\obj\Debug\net6.0-windows\Version1proyectoS0.AssemblyInfo.cs
+C:\Users\matia\OneDrive\Escritorio\Proyecto SO\Version 2\Version1proyectoS0\obj\Debug\net6.0-windows\Version1proyectoS0.csproj.CoreCompileInputs.cache
+C:\Users\matia\OneDrive\Escritorio\Proyecto SO\Version 2\Version1proyectoS0\obj\Debug\net6.0-windows\Version1proyectoS0.dll
+C:\Users\matia\OneDrive\Escritorio\Proyecto SO\Version 2\Version1proyectoS0\obj\Debug\net6.0-windows\refint\Version1proyectoS0.dll
+C:\Users\matia\OneDrive\Escritorio\Proyecto SO\Version 2\Version1proyectoS0\obj\Debug\net6.0-windows\Version1proyectoS0.pdb
+C:\Users\matia\OneDrive\Escritorio\Proyecto SO\Version 2\Version1proyectoS0\obj\Debug\net6.0-windows\Version1proyectoS0.genruntimeconfig.cache
+C:\Users\matia\OneDrive\Escritorio\Proyecto SO\Version 2\Version1proyectoS0\obj\Debug\net6.0-windows\ref\Version1proyectoS0.dll
+C:\Users\rcmga\Downloads\Version 3\Version 3\Version1proyectoS0\bin\Debug\net6.0-windows\Version1proyectoS0.exe
+C:\Users\rcmga\Downloads\Version 3\Version 3\Version1proyectoS0\bin\Debug\net6.0-windows\Version1proyectoS0.deps.json
+C:\Users\rcmga\Downloads\Version 3\Version 3\Version1proyectoS0\bin\Debug\net6.0-windows\Version1proyectoS0.runtimeconfig.json
+C:\Users\rcmga\Downloads\Version 3\Version 3\Version1proyectoS0\bin\Debug\net6.0-windows\Version1proyectoS0.dll
+C:\Users\rcmga\Downloads\Version 3\Version 3\Version1proyectoS0\bin\Debug\net6.0-windows\Version1proyectoS0.pdb
+C:\Users\rcmga\Downloads\Version 3\Version 3\Version1proyectoS0\obj\Debug\net6.0-windows\Version1proyectoS0.Form1.resources
+C:\Users\rcmga\Downloads\Version 3\Version 3\Version1proyectoS0\obj\Debug\net6.0-windows\Version1proyectoS0.csproj.GenerateResource.cache
+C:\Users\rcmga\Downloads\Version 3\Version 3\Version1proyectoS0\obj\Debug\net6.0-windows\Version1proyectoS0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rcmga\Downloads\Version 3\Version 3\Version1proyectoS0\obj\Debug\net6.0-windows\Version1proyectoS0.AssemblyInfoInputs.cache
+C:\Users\rcmga\Downloads\Version 3\Version 3\Version1proyectoS0\obj\Debug\net6.0-windows\Version1proyectoS0.AssemblyInfo.cs
+C:\Users\rcmga\Downloads\Version 3\Version 3\Version1proyectoS0\obj\Debug\net6.0-windows\Version1proyectoS0.csproj.CoreCompileInputs.cache
+C:\Users\rcmga\Downloads\Version 3\Version 3\Version1proyectoS0\obj\Debug\net6.0-windows\Version1proyectoS0.dll
+C:\Users\rcmga\Downloads\Version 3\Version 3\Version1proyectoS0\obj\Debug\net6.0-windows\refint\Version1proyectoS0.dll
+C:\Users\rcmga\Downloads\Version 3\Version 3\Version1proyectoS0\obj\Debug\net6.0-windows\Version1proyectoS0.pdb
+C:\Users\rcmga\Downloads\Version 3\Version 3\Version1proyectoS0\obj\Debug\net6.0-windows\Version1proyectoS0.genruntimeconfig.cache
+C:\Users\rcmga\Downloads\Version 3\Version 3\Version1proyectoS0\obj\Debug\net6.0-windows\ref\Version1proyectoS0.dll

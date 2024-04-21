@@ -1,0 +1,7 @@
+C:\Users\matia\OneDrive\Escritorio\Proyecto SO\Version 1\Version1 SO\obj\Debug\net6.0-windows\Version1 SO.csproj.AssemblyReference.cache
+C:\Users\matia\OneDrive\Escritorio\Proyecto SO\Version 1\Version1 SO\obj\Debug\net6.0-windows\WindowsFormsApplication1.Form1.resources
+C:\Users\matia\OneDrive\Escritorio\Proyecto SO\Version 1\Version1 SO\obj\Debug\net6.0-windows\Version1 SO.csproj.GenerateResource.cache
+C:\Users\matia\OneDrive\Escritorio\Proyecto SO\Version 1\Version1 SO\obj\Debug\net6.0-windows\Version1 SO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matia\OneDrive\Escritorio\Proyecto SO\Version 1\Version1 SO\obj\Debug\net6.0-windows\Version1 SO.AssemblyInfoInputs.cache
+C:\Users\matia\OneDrive\Escritorio\Proyecto SO\Version 1\Version1 SO\obj\Debug\net6.0-windows\Version1 SO.AssemblyInfo.cs
+C:\Users\matia\OneDrive\Escritorio\Proyecto SO\Version 1\Version1 SO\obj\Debug\net6.0-windows\Version1 SO.csproj.CoreCompileInputs.cache
